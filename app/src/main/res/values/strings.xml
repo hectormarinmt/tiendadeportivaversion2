@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Tienda deportiva version 2</string>
+    <string name="texto_productos">PRODUCTOS</string>
+    <string name="titulo_balon_2022">Balón mundial 2022</string>
+    <string name="titulo_balon_2018">Balón mundial 2018</string>
+    <string name="titulo_balon_2014">Balón mundial 2014</string>
+    <string name="titulo_balon_2010">Balón mundial 2010</string>
+    <string name="titulo_balon_2006">Balón mundial 2006</string>
+    <string name="descripcion_balon_2022">Original firmado por Messi</string>
+    <string name="descripcion_balon_2018">Original firmado por CR7</string>
+    <string name="descripcion_balon_2014">Original firmado por Kaká</string>
+    <string name="descripcion_balon_2010">Original firmado por Neymar</string>
+    <string name="descripcion_balon_2006">Original firmado por James</string>
+    <string name="titulo_zapatos_1">Zapatos deportivos 1</string>
+    <string name="titulo_zapatos_2">Zapatos deportivos 2</string>
+    <string name="titulo_zapatos_3">Zapatos deportivos 3</string>
+    <string name="titulo_pantaloneta">Pantaloneta</string>
+    <string name="descripcion_zapatos_1">Originales de Beckham</string>
+    <string name="descripcion_zapatos_2">Originales del Pibe</string>
+    <string name="descripcion_zapatos_3">Originales de Pelé</string>
+    <string name="descripcion_pantaloneta">Comodidad garantizada</string>
+    <string name="texto_volver">Volver</string>
+    <string name="texto_tienda">Tienda</string>
+
+
+</resources>
